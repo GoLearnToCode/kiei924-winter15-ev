@@ -1,5 +1,6 @@
 # Goals
 
-* Visitor Traffic with Google Analytics
-* jQuery Effects
+* Command-line-fu
+* Intro to Javascript
+* Integration of third-party scripts
 * What's Next
