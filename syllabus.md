@@ -4,7 +4,7 @@ Winter Quarter 2015
 ## Course Description
 Instructor: Brian Eng
 
-This short course is geared for entrepreneurs and non-programmers who want to learn the essentials of building web applications. Students will build a small website in steps, gaining skills in software analysis and experience with tools for building modern web applications.
+This course is geared for entrepreneurs and non-programmers who want to learn the essentials of building web applications. Students will build a small website in steps, gaining skills in software analysis and experience with tools for building modern web applications.
 
 This course fulfills the prerequisite for KIEI-925. 
 
