@@ -22,8 +22,6 @@ Also don't miss the "unofficial" but excellent [documentation](http://docs.subli
 
 ## Github
 
-### Create a Github account
-
 Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
 
 ### Download and Install the Github App
@@ -55,9 +53,7 @@ It's free to try out, but after 30 days you'll start to get nagged to pay for it
 Also don't miss the "unofficial" but excellent [documentation](http://docs.sublimetext.info/en/latest/index.html).
  
 ## Github
- 
-### Create a Github account
- 
+
 Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
  
 ### Download and Install the Github App
