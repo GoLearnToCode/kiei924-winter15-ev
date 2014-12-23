@@ -36,7 +36,7 @@ We'll need a place to store all the code we'll be writing this quarter.
 
 Create a folder called *code* in your home directory. (What's the home directory? In the *Finder*, it's accessible via the sidebar – it's the one with the "house" icon and is marked with the username you've used to log-in to your computer. You can also get there from the Finder menu, via Go -> Home).
 
-Finally, download the following and unzip it into your code folder. When you're done, you should have a folder called "profile" in your *code* directory.
+Finally, download the following and unzip it into your code folder. **Rename the folder (which will probably be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
 
 https://github.com/kiei924-winter15-ev/profile/archive/master.zip
 
@@ -68,7 +68,7 @@ We'll need a place to store all the code we'll be writing this quarter.
  
 Create a folder called *code* in the root of your C:\ drive.
  
-Finally, download the following and unzip it into your code folder. When you're done, you should have a folder called "profile" in your *code* directory.
+Finally, download the following and unzip it into your code folder. **Rename the folder (which will probably be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
  
 https://github.com/kiei924-winter15-ev/profile/archive/master.zip
 
