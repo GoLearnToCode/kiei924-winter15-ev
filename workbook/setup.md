@@ -40,6 +40,13 @@ Finally, download the following and unzip it into your code folder. **Rename the
 
 https://github.com/kiei924-winter15-ev/profile/archive/master.zip
 
+    Home Directory
+    -- profile
+       -- index.html
+       -- linedpaper.png
+       -- style.css
+       -- walter.jpg
+
 # For Windows Users
  
 Step 0! Make sure that your Windows PC is running Windows 7 or later. **If it isn't, please upgrade before continuing.**
