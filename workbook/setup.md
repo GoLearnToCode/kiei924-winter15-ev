@@ -10,7 +10,7 @@ To get up and running, follow the instructions for your platform:
 
 <hr>
 
-## For Mac Users
+# For Mac Users
 
 Step 0! Make sure that your Mac is running Mac OS X 10.9 (Mavericks) or later. **If it isn't, please upgrade before continuing.**
 
@@ -44,7 +44,7 @@ https://github.com/kiei924-fall14/profile/archive/master.zip
 
 <hr>
 
-## For Windows Users
+# For Windows Users
  
 Step 0! Make sure that your Windows PC is running Windows 7 or later. **If it isn't, please upgrade before continuing.**
  
