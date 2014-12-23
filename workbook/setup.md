@@ -79,5 +79,11 @@ Finally, download the following and unzip it into your code folder. **Rename the
  
 https://github.com/kiei924-winter15-ev/profile/archive/master.zip
 
+    c:\code
+    -- profile
+       -- index.html
+       -- linedpaper.png
+       -- style.css
+       -- walter.jpg
 
 
