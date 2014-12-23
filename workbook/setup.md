@@ -8,6 +8,8 @@ You'll have to install three pieces of software in order to get ready for KIEI-9
 
 To get up and running, follow the instructions for your platform:
 
+<hr>
+
 ## For Mac Users
 
 Step 0! Make sure that your Mac is running Mac OS X 10.9 (Mavericks) or later. **If it isn't, please upgrade before continuing.**
@@ -39,6 +41,8 @@ Create a folder called *code* in your home directory. (What's the home directory
 Finally, download the following and unzip it into your code folder. When you're done, you should have a folder called "profile" in your *code* directory.
 
 https://github.com/kiei924-fall14/profile/archive/master.zip
+
+<hr>
 
 ## For Windows Users
  
