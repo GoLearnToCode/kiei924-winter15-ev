@@ -6,7 +6,11 @@ You'll have to install three pieces of software in order to get ready for KIEI-9
 - A **Code Editor** - The code editor is a piece of software that is used to create and edit text files. It's like Microsoft Word, but for code files instead of word processing documents. In this class, we'll use Sublime Text.
 - The **Github App** - **Git** is a technology that professional developers use to store their code and share it with others. **Github** is a company that provides a popular hosted Git service. They provide an app for easy access to their service.
 
-To get up and running, follow the instructions for your platform:
+There's a also a short video to watch – it's recorded for Mac, but good for both Mac and Windows users to watch, just for a high-level overview.
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/xTICpdoNXmo" frameborder="0" allowfullscreen></iframe>
+
+Then, follow the below instructions for your platform. 
 
 # For Mac Users
 
