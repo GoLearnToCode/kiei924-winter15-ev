@@ -52,6 +52,30 @@ Another inline element is the `img` tag, used to display photos and graphics:
 
 The `img` element never has any inner content.  Instead, the `src` attribute supplies all the information the element needs.  Therefore, no closing tag is needed.
 
+### Attributes vs. Inner HTML
+
+Depending on the type of element and its syntax, HTML elements can have **attributes**, **inner HTML**, or both.
+
+For example, the `img` tag has the `src` attribute, which describes the "source" of the image:
+
+```html
+<img src="http://www.google.com/images/srpr/logo11w.png">
+```
+
+And here, the `h1` tag has **inner HTML** of `Cookies!!!`, which describes the content of this particular `h1` element:
+
+```html
+<h1>Cookies!!!</h1>
+```
+
+Elements can have both attributes and inner HTML; for instance, this `a` tag:
+
+```html
+<a href="http://golearntocode.com/">Visit our website</a>
+```
+
+Generally speaking, attributes represent data that is important for the web browser to know about, but not necessarily displayed to the user. And inner HTML is usually displayed to the user.
+
 
 
 
