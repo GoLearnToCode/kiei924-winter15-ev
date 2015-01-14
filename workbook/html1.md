@@ -76,6 +76,21 @@ Elements can have both attributes and inner HTML; for instance, this `a` tag:
 
 Generally speaking, attributes represent data that is important for the web browser to know about, but not necessarily displayed to the user. And inner HTML is usually displayed to the user.
 
+### Nesting
 
+HTML elements may be **nested**, that is, you can have elements inside of other elements. For example, a `ul` (unordered list) has individual `li` (list items) inside of it.
 
+```html
+<ul>
+  <li>Oreos</li>
+  <li>Chips Ahoy</li>
+  <li>Nilla Wafers</li>
+</ul>
+```
+
+Here, we use nesting to build a link (`a` tag) with an image instead of text:
+
+```html
+<a href="http://golearntocode.com/"><img src="code.jpg"></a>
+```
 
