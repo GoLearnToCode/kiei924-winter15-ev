@@ -28,6 +28,8 @@ Also don't miss the "unofficial" but excellent [documentation](http://docs.subli
 
 Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
 
+Once your Github account is created, you'll want to **enter your Kellogg email address into your public profile**. Do this by going to your settings (the little "cog" icon in the upper right) and entering it in the "Profile" section.
+
 ### Download and Install the Github App
 
 https://mac.github.com/
@@ -66,6 +68,8 @@ Also don't miss the "unofficial" but excellent [documentation](http://docs.subli
 ## Github
 
 Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
+
+Once your Github account is created, you'll want to **enter your Kellogg email address into your public profile**. Do this by going to your settings (the little "cog" icon in the upper right) and entering it in the "Profile" section.
  
 ### Download and Install the Github App
  
