@@ -4,4 +4,4 @@
 * Understand the basics of HTTP
 * Connect pages and create apps with forms
 
-<a href="mailto:brian@brianeng.com">Test the mailto!</a>
+<a href="mailto:b-eng@kellogg.northwestern.edu">Test the mailto!</a>

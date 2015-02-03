@@ -1,6 +1,6 @@
 # Goals
 
+* Custom domain names
 * Command-line-fu
-* Intro to Javascript
-* Integration of third-party scripts
+* Intro to programming with Javascript
 * What's Next

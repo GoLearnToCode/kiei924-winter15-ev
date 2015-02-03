@@ -8,6 +8,6 @@ For the final, turn in the completed version of your username.github.io project.
 4. Override the Boostrap CSS with your own custom CSS to style elements using your own preferred colors and typography.
 5. Implement a contact form that submits to a mailto: link. Ensure that the email drafted contains the information in the form.
 
-Commit and sync your code to your username.github.io repository no later than Monday, October 27 at 11:59pm.
+Commit and sync your code to your username.github.io repository no later than Monday, February 9 at 11:59pm.
 
 
