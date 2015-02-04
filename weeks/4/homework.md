@@ -1,4 +1,4 @@
-## Requirements for the Final – Due Next Thursday by 11:59PM
+## Requirements for the Final – Due Next Monday by 11:59PM
 
 For the final, turn in the completed version of your username.github.io project. As with the homeworks, feel free to work in teams, but turn in your work individually via your own Github account.
 
