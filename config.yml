@@ -13,4 +13,5 @@ sidebar:
     label: "Community"
     url: "https://northwestern.slack.com/"
     icon: fa-slack
+    gallery: true
   
